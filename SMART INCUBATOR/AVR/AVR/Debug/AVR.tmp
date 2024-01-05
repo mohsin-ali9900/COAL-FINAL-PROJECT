@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\delayMacro.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\UART.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\div_macro.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\Debug\AVR.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AVR.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AVR.map</FILE>
+  <FILE>AVR.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <mainloop><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>49</LINE></mainloop>
+  <Led2_on><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>76</LINE></Led2_on>
+  <Led2_off><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>71</LINE></Led2_off>
+  <fan2_on><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>89</LINE></fan2_on>
+  <fan2_off><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>81</LINE></fan2_off>
+  <skip><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>131</LINE></skip>
+  <BeepBuzzer><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>111</LINE></BeepBuzzer>
+  <buzzer_two><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>100</LINE></buzzer_two>
+  <L1><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>103</LINE></L1>
+  <L2><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>123</LINE></L2>
+  <buzzer_three><FILE>D:\Study\3rd Semester\COAL\Project\Incubator\AVR\AVR\main.asm</FILE><LINE>120</LINE></buzzer_three>
+ </LABELS>
+</ASSEMBLER_INFO>
